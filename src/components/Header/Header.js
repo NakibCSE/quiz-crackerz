@@ -1,5 +1,5 @@
 import React from "react";
-import header from "../../../src/asset/header.png";
+import header from "../../../src/asset/background.webp";
 const Header = () => {
   return (
     <div
