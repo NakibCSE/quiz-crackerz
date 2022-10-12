@@ -6,10 +6,9 @@ This project live link [Click here](https://taupe-dolphin-dc470b.netlify.app/).
 
 In the project we use with javascript library react , tailwind css,daisy ui,react toastify, font awesome and rechart js.
 
-### `npm start`
+### Project feature
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this project any user can test his mind with some programming question. There have four section and every section there have some question which have 3/4 option.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
