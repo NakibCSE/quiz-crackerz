@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Code Khata
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project live link [Click here](https://taupe-dolphin-dc470b.netlify.app/).
 
 ## Available Scripts
 
