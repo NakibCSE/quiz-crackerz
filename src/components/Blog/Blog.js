@@ -3,7 +3,7 @@ import React from "react";
 const Blog = () => {
   return (
     <div className="p-10">
-      <h3 className="text-3xl">1.What is the purpose of react router??</h3>
+      <h3 className="text-3xl font-bold">1.What is the purpose of react router??</h3>
       <p>
         React Router is a standard library for routing in React. It enables the
         navigation among views of various components in a React Application,
@@ -11,7 +11,7 @@ const Blog = () => {
         URL.We can go from one page to another page without loading the entire
         page. So its make the performance of Single Page Application very much
       </p>
-      <h3 className="text-3xl mt-4">2.How does context api work in react??</h3>
+      <h3 className="text-3xl mt-4 font-bold">2.How does context api work in react??</h3>
       <p>
         The React Context API is a way for a React app to effectively produce
         global variables that can be passed around. This is the alternative to
@@ -22,7 +22,7 @@ const Blog = () => {
         the component tree directly, instead of passing it down through a chain
         of props.
       </p>
-      <h3 className="text-3xl mt-4">3.React JS useRef Hook?</h3>
+      <h3 className="text-3xl mt-4 font-bold">3.React JS useRef Hook?</h3>
       <p>
         The useRef returns a mutable ref object. This object has a property
         called .current. The value is persisted in the refContainer.current
