@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "./Navbar.css";
-import logo from "../../asset/lightbulb.png";
+import logo from "../../asset/logo.jpg";
 const Navbar = () => {
   return (
     <div>
@@ -72,7 +72,7 @@ const Navbar = () => {
           </div>
           <a className="btn btn-ghost normal-case text-xl">
             <img className="h-12" src={logo} alt="" />
-            Talent Hunter
+            Code Khata
           </a>
         </div>
 
