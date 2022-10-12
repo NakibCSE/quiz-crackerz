@@ -18,7 +18,7 @@ const Course = ({ course }) => {
           </div>
           <div className="card-actions justify-end">
             <Link to={`/quizes/${id}`}>
-              <button className="btn btn-primary">Lets Go To Hunt</button>
+              <button className="btn btn-info">Lets Go To Hunt</button>
             </Link>
           </div>
         </div>
