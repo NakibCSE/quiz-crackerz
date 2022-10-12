@@ -1,0 +1,10 @@
+.activelink {
+    border-bottom: 2px solid tomato;
+}
+
+.nav-section a {
+    margin-left: 25px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
